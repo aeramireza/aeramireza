@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aeramireza
+- 👋 Hi, I’m Aura @aeramireza
 - 👀 I’m interested in Data Science!
 - 🌱 I’m currently learning SQL, Python for Data Science
 - 💞️ I’m looking to collaborate on ...
