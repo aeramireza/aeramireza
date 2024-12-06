@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aura @aeramireza
 - 👀 I’m interested in Data Science!
-- 🌱 I’m currently learning SQL, Python for Data Science
+- 🌱 I’m currently learning...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: aura.rama@gmail.com
 
