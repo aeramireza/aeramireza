@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aura @aeramireza
 - 👀 I’m interested in Data Science!
-- 🌱 I’m currently learning...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning NLP with spaCy
+- 💞️ I’m looking to collaborate on ... You tell me!
 - 📫 How to reach me: aura.rama@gmail.com
 
 <!---
